@@ -6,4 +6,4 @@ My name is Evan Kessler and I am a Senior at Clemson University. Currently, I am
 - 
 - 🌱 I’m currently learning artificial intelligence algorithms for unmanned vehicles and in general, operating systems, applied data science, and database management with SQL. 
 - 
-- 📫 How to reach me: my phone number is 732-320-0158, my personal email is evkessler2002@gmail.com, my school email is etkessl@clemson.edu, and my [LinkedIn]{https://www.linkedin.com/in/evan-kessler-30b1331aa/} is under Evan Kessler.
+- 📫 How to reach me: my phone number is 732-320-0158, my personal email is evkessler2002@gmail.com, my school email is etkessl@clemson.edu, and my [LinkedIn](https://www.linkedin.com/in/evan-kessler-30b1331aa/) is under Evan Kessler.
